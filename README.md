@@ -7,6 +7,7 @@ I'm also currently doing my B.Tech in ECE from National Institutt of Technology 
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime or on my laptop gaming. But most of my days are spent working on projects while listening to Spotify, Studying or watching anime.</p>
 
 - 📫 Reach me at **pranjul.agarwal1999@gmail.com**
+- 💻 Checkout My Website **https://pranjulagarwal.github.io/**
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
