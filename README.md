@@ -1,13 +1,4 @@
-<style>
-.zoom {
-  transition: transform .1s; /* Animation */
-  margin: 0 auto;
-}
-
-.zoom:hover {
-  transform: scale(2); /* (200% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
-</style>
+<link rel=”stylesheet” href="anime.css">
 <h1 align="center"> Hi, I'm Pranjul Agarwal 👋🤓</h1>
 <h3 align="center"> I am an Aspiring Full-Stack Developer 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjulAgarwal" alt="PranjulAgarwal" /> </p>
@@ -16,7 +7,7 @@
 I'm also currently doing my B.Tech in ECE from National Institute of Technology Uttarakhand while working on other projects.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime or on my laptop gaming. But most of my days are spent working on projects while listening to Spotify, Studying or watching anime.</p>
 
-- 📫 Reach me at [**pranjul.agarwal1999@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=pranjul.agarwal1999@gmail.com)
+- 📫 Reach me at [**pranjul.agarwal1999@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=pranjul.agarwal1999@gmail.comtarget="_blank")
 - 💻 Checkout My Website **https://pranjulagarwal.github.io/**
 
 <p align="left">
