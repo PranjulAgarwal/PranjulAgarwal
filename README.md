@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjulAgarwal" alt="PranjulAgarwal" /> </p>
 
 <p align="center">I'm a Full-Stack Developer, Graphic Designer, Content Creator and Android Developer from India.
-I'm also currently doing my B.Tech in ECE from National Institutt of Technology Uttarakhand while working on other projects.
+I'm also currently doing my B.Tech in ECE from National Institute of Technology Uttarakhand while working on other projects.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime or on my laptop gaming. But most of my days are spent working on projects while listening to Spotify, Studying or watching anime.</p>
 
 - 📫 Reach me at [**pranjul.agarwal1999@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=pranjul.agarwal1999@gmail.com)
