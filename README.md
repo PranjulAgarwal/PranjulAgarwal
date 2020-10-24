@@ -1,7 +1,8 @@
 <h1 align="center"> Hi, I'm Pranjul Agarwal 👋🤓</h1>
 <h3 align="center"> I am an Aspiring Full-Stack and Android Developer  💻</h3>
 <p align="center">
-<img src="https://media1.tenor.com/images/ee81555d7dea99b52f80ae54f944fc3d/tenor.gif?itemid=13469492" alt="HackerBoyGif" width="100%" height="400" />
+<img src="https://www.eins23.tv/assets/images/misc/background-programming-white.gif" alt="ProgrammingGif" width="40%" height="250" />
+<img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/08/New-Android-Logo-evolution.gif" alt="AndroidGif" width="40%" height="250" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjulAgarwal" alt="PranjulAgarwal" /> </p>
 
@@ -39,7 +40,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 </p>
 
 <p align="center">
-<img src="https://www.eins23.tv/assets/images/misc/background-programming-white.gif" alt="ProgrammingGif" width="550" height="250" />
+<img src="https://media1.tenor.com/images/ee81555d7dea99b52f80ae54f944fc3d/tenor.gif?itemid=13469492" alt="HackerBoyGif" width="100%" height="400" />
 </p>
 
 <p align="center">
