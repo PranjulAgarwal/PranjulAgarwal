@@ -14,7 +14,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - 💻 Checkout My Website **https://pranjulagarwal.github.io/**
 
 
-<table border="0">
+<table>
  <tr>
     <td width="50%">
 
