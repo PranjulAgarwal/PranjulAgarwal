@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Pranjul Agarwal 👋🤓</h1>
 <h3 align="center"> I am an Aspiring Full-Stack and Android Developer  💻</h3>
 <p align="center">
-<img src="https://media1.tenor.com/images/ee81555d7dea99b52f80ae54f944fc3d/tenor.gif?itemid=13469492" alt="android" width="100%" height="500" />
+<img src="https://media1.tenor.com/images/ee81555d7dea99b52f80ae54f944fc3d/tenor.gif?itemid=13469492" alt="HackerBoyGif" width="100%" height="400" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjulAgarwal" alt="PranjulAgarwal" /> </p>
 
@@ -11,7 +11,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 - 📫 Reach me at [**pranjul.agarwal1999@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=pranjul.agarwal1999@gmail.comtarget="_blank")
 - 💻 Checkout My Website **https://pranjulagarwal.github.io/**
-
 <p align="left">
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img  src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
@@ -38,6 +37,11 @@ When I'm not developing and building things, you can find me on Youtube learning
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 <img  src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
 </p>
+
+<p align="center">
+<img src="https://www.eins23.tv/assets/images/misc/background-programming-white.gif" alt="ProgrammingGif" width="500" height="250" />
+</p>
+
 <p align="center">
 <a href="https://twitter.com/PranjulAgarwal6" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="PranjulAgarwal6" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/pranjul-agarwal-2000" target="blank"><img   align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/pranjul-agarwal-2000" height="40" width="40" /></a>
