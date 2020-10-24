@@ -39,7 +39,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 </p>
 
 <p align="center">
-<img src="https://www.eins23.tv/assets/images/misc/background-programming-white.gif" alt="ProgrammingGif" width="500" height="250" />
+<img src="https://www.eins23.tv/assets/images/misc/background-programming-white.gif" alt="ProgrammingGif" width="550" height="250" />
 </p>
 
 <p align="center">
