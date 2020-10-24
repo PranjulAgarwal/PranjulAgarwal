@@ -14,11 +14,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - 💻 Checkout My Website **https://pranjulagarwal.github.io/**
 
 
-<table>
- <tr>
-    <td width="50%">
-
-<p align="left">
+<p align="center">
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img  src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
@@ -43,12 +39,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 <img  src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-</p></td>
-    <td><p align="right">
-<img src="https://www.webzindagi.com/assets/img/website-design-company.gif" alt="Animation" width="100%" height="100%" />
-</p></td>
- </tr>
-</table>
+</p>
 
 <p align="center">
 <a href="https://twitter.com/PranjulAgarwal6" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="PranjulAgarwal6" height="40" width="40" /></a>
