@@ -1,19 +1,25 @@
 <h1 align="center"> Hi, I'm Pranjul Agarwal 👋🤓</h1>
-<h3 align="center"> I am an Aspiring Full-Stack and Android Developer  💻</h3>
+<h3 align="center"> I am an Aspiring Full-Stack Web and Android Developer  💻</h3>
 <p align="center">
 <img src="https://wpfixd.com/wp-content/uploads/2019/01/home-gif.gif" alt="ProgrammingGif" width="40%" height="200" />
 <img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/08/New-Android-Logo-evolution.gif" alt="AndroidGif" width="40%" height="200" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjulAgarwal" alt="PranjulAgarwal" /> </p>
 
+**About Me:**
 <p align="center">I'm a Full-Stack Developer, Graphic Designer, Content Creator and Android Developer from India.
 I'm currently pursuing B.Tech in ECE from National Institute of Technology Uttarakhand while working on other projects.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime or on my laptop gaming. But most of my days are spent working on projects while listening to Spotify, Studying or watching anime.</p>
 
+---
+**Contact Me:**
 - 📫 Reach me at [**pranjul.agarwal1999@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=pranjul.agarwal1999@gmail.comtarget="_blank")
 - 💻 Checkout My Website **https://pranjulagarwal.github.io/**
 - 🔗 Connect with me at **www.linkedin.com/in/pranjul-agarwal-2000**
 
+---
+
+**Languages and Tools:**
 
 <p align="center">
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -41,6 +47,14 @@ When I'm not developing and building things, you can find me on Youtube learning
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 <img  src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
 </p>
+
+---
+
+![Pranjul's github stats](https://github-readme-stats.vercel.app/api?username=PranjulAgarwal&count_private=true&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjulAgarwal&theme=gotham&hide_border=true&layout=compact)
+
+---
 
 <p align="center">
 <a href="https://twitter.com/PranjulAgarwal6" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="PranjulAgarwal6" height="40" width="40" /></a>
