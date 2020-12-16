@@ -52,7 +52,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ![Pranjul's github stats](https://github-readme-stats.vercel.app/api?username=PranjulAgarwal&count_private=true&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjulAgarwal&theme=gotham&hide_border=true&layout=compact)
 
 ---
 
