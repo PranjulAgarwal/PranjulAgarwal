@@ -1,11 +1,10 @@
 <h1 align="center"> Hi, I'm Pranjul Agarwal 👋🤓</h1>
 <h3 align="center"> I am an Aspiring Full-Stack Web and Android Developer  💻</h3>
 <p align="center">
-<img src="https://wpfixd.com/wp-content/uploads/2019/01/home-gif.gif" height="40" alt="ProgrammingGif" width="40%" height="200" />
-<img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/08/New-Android-Logo-evolution.gif" height="40" alt="AndroidGif" width="40%" height="200" />
+<img src="https://wpfixd.com/wp-content/uploads/2019/01/home-gif.gif" alt="ProgrammingGif" width="40%" height="200" />
+<img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/08/New-Android-Logo-evolution.gif" alt="AndroidGif" width="40%" height="200" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjulAgarwal" height="40" alt="PranjulAgarwal" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjulAgarwal" alt="PranjulAgarwal" /> </p>
 **About Me:**
 <p align="center">I'm a Full-Stack Developer, Graphic Designer, Content Creator and Android Developer from India.
 I'm currently pursuing B.Tech in ECE from National Institute of Technology Uttarakhand while working on other projects.
