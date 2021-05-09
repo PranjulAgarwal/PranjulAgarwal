@@ -16,7 +16,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - 📫 Reach me at [**pranjul.agarwal1999@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=pranjul.agarwal1999@gmail.comtarget="_blank")
 - 💻 Checkout My Website **https://pranjulagarwal.github.io/**
 - 🔗 Connect with me at **www.linkedin.com/in/pranjul-agarwal-2000**
-- 📄 Download **[My Curriculum Vitae](./Pranjul_CV.pdf)**
+- 📄 Download **[My Curriculum Vitae](https://github.com/PranjulAgarwal/PranjulAgarwal/raw/main/Pranjul_CV.pdf)**
 
 ---
 
